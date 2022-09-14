@@ -1,4 +1,4 @@
-# Supervised-Machine-Learning-Homework-Predicting-Credit-Risk
+# Supervised Machine Learning - Predicting Credit Risk
 
 Retrieve the data
 In the Generator folder in Resources, there is a GenerateData.ipynb notebook that will download data from LendingClub and output two CSVs:
